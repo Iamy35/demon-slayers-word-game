@@ -1,4 +1,4 @@
-# Aslıhan Aydoğdu 20010011045
+
 import random
 demon_slayers_chars_names = ["shinobu", "tanjiro", "zenitsu", "nezuko", "inosuke", "giyu", "sabito", "makomo", "kyojuro"]
 game_find_list = []
